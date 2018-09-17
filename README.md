@@ -1,4 +1,4 @@
 ## Public Speaking Simulator (test task)
 ### Preview
 
-<img src="https://im.ezgif.com/tmp/ezgif-1-fee06863ea.gif" width="250">
+<img src="https://media.giphy.com/media/etZNte6qd7SCOWkxpq/giphy.gif" width="250">
